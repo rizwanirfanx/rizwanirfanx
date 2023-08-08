@@ -1,4 +1,5 @@
-- 👋 Hello World! , I’m @rizwanirfanx, a student of Software Engineering (currently in 6th Semester)
+- 👋 Hello World! , I’m @rizwanirfanx, a student of Software Engineering 
+- NeoVim User ;)
 - 👀 I’m interested in Flutter, ReactJS, Database Design, Assembly Language & Ethical Hacking
 - 🌱 I’m currently learning Flutter & ReactJS
 - 💞️ lover & user of FOSS!
@@ -6,12 +7,19 @@
 - List of Websites that I have created (The following is not a complete list of sites that i have developed, i will keep adding)
 <br/>
 <a href="https://pakdevelopers.org">PakDevelopers</a>
+<br/>
 <a href="https://professionalcycle.co">Professional Cycle</a>
+<br/>
 <a href="https://bluejservices.com/"> Blue J Services</a>
+<br/>
 <a href="https://hbncaring.co.uk/"> HBN Caring</a>
+<br/>
 <a href="https://professionalcycle.co">Professional Cycle</a>
+<br/>
 <a href="https://kashedgroup.com/"> Kashed Group </a>
+<br/>
 <a href="amc.pakdevelopers.org">AAAMCE</a>
+<br/>
 
 <!---
 rizwanirfanx/rizwanirfanx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
