@@ -1,7 +1,6 @@
-- 👋 Hello World! , I’m @rizwanirfanx, a student of Software Engineering 
+- 👋 Hello World! , I’m @rizwanirfanx, Software Engineer Graduate
 - NeoVim User ;)
-- 👀 I’m interested in Flutter, ReactJS, Database Design, Assembly Language & Ethical Hacking
-- 🌱 I’m currently learning Flutter & ReactJS
+- 👀 I’m interested in Web, PHP/Laravel, MySQL, ReactJS, Database Design, Assembly Language & Ethical Hacking
 - 💞️ lover & user of FOSS!
 - 📫 You can Reach me through my email: rizwanirfanx@gmail.com or my Whatsapp Number: +923169585804
 - List of Websites that I have created (The following is not a complete list of sites that i have developed, i will keep adding)
